@@ -11,9 +11,10 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            조창욱                            |                            이나현                            |                            김민석                            |                            유제은                            |                            김정모                            |                            송의혁                            |
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) <br>` ESTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sksmsdlskgus) <br>` ENTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/minseokKim6823) <br>` E(I)STP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/YuJeeun) <br>` INFP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mojeeeeong) <br>` INFJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/euihyeok-song) <br>` ESFP `|
--->
-<br>
 
+<br>
+ -->
+ 
 ## 🎬🎞️ 프로젝트 개요 
 
 ### 01_ 프로젝트 소개 
